@@ -11,7 +11,7 @@
         /**
          * 
          *  VARIABILI
-         *  
+         *
          */
 
         $text_base = "Pippo mangia le mele dell' albero";
