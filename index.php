@@ -7,7 +7,12 @@
 </head>
 <body>
     
-    <!-- VAR -->
+    <?php 
+        /**
+         * 
+         *  VARIABILI
+         *  
+         */
 
     <?php 
         $text_base = "Pippo mangia le mele dell' albero";
