@@ -14,7 +14,6 @@
          *  
          */
 
-    <?php 
         $text_base = "Pippo mangia le mele dell' albero";
         $censored = $_GET['censored'];
         $censored_string = '***';
